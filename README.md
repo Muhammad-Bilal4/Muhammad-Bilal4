@@ -114,14 +114,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 
 ## GITHUB STATS 📊
 <!-- GitHub Readme Stats: main card -->
-<p align="center"> 
-  <!-- Custom S Badge -->
-  <img src="https://img.shields.io/badge/-S-blue?style=for-the-badge&logoColor=white" height="25"/> 
-  <br/>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal4&show_icons=true&theme=default&include_all_commits=true" 
-       alt="GitHub stats" height="180" /> 
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal4&show_icons=true&theme=default&include_all_commits=true&rank_icon=github" alt="GitHub stats" height="180" /> </p>
 <!-- Streak stats -->
 <p align="center">
   <img
