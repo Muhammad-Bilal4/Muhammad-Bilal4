@@ -30,19 +30,19 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <figure style="margin:0; text-align:center;">
     <img src="./assets/MATLAB_logo_PNG1.png" alt="MATLAB" title="MATLAB"
          loading="lazy"
-         style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
+         style="width:120px; height:120px; object-fit:contain; display:block;" />
     <!-- Caption removed -->
   </figure>
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Proteus_logo_PNG1.png" alt="Proteus" title="Proteus"
          loading="lazy"
-         style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
+         style="width:120px; height:120px; object-fit:contain; display:block;" />
     <!-- Caption removed -->
   </figure>
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Python_logo_PNG1.png" alt="Python" title="Python"
          loading="lazy"
-         style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
+          style="width:120px; height:120px; object-fit:contain; display:block;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
@@ -70,7 +70,6 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
     <!-- Caption removed -->
   </figure>   
 </div>
-</section>
 
 
 
