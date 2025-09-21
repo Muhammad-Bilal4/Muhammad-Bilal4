@@ -52,12 +52,6 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
     <!-- Caption removed -->
   </figure>
   <figure style="margin:0; text-align:center;">
-    <img src="./assets/MATLAB_logo_PNG1.png" alt="MATLAB" title="MATLAB"
-         loading="lazy"
-         style="width:80px; height:70px; object-fit:contain; display:block;image-rendering:auto;" />
-    <!-- Caption removed -->
-  </figure>
-  <figure style="margin:0; text-align:center;">
     <img src="./assets/Cpp_logo_PNG1.png" alt="Cpp" title="Cpp"
          loading="lazy"
          style="width:80px; height:70px; object-fit:contain; display:block;image-rendering:auto;" />
