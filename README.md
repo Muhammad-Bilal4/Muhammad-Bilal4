@@ -116,7 +116,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 <!-- GitHub Readme Stats: main card -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal4&show_icons=true&theme=default&include_all_commits=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal4&show_icons=true&theme=default&include_all_commits=true"
     alt="GitHub stats" height="180" />
 </p>
 
