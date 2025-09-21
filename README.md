@@ -92,72 +92,28 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 
 </div>
 
-## Projects 
-<!-- Project Cards (paste inside your Projects section) -->
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:16px; font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
+## Projects 📂 
+<!-- Project 1 -->
+<h3>📡 Performance Evaluation of Min-Max and Trilateration Algorithms for Long-Range RF-Based Indoor Localization</h3>
+<p><em>Sep 2024 – Jul 2025</em></p>
+<p><strong>Tools:</strong> <code>MATLAB</code> • <code>Embedded C</code> • <code>LoRa</code></p>
+<ul>
+  <li>Empirically evaluated Min-Max and Trilateration algorithms for LoRa-based indoor localization.</li>
+  <li>Analyzed the impact of anchor node diversity on localization accuracy.</li>
+  <li>Worked with real-time RSSI datasets from dynamic indoor environments.</li>
+</ul>
 
-  <!-- Project 1 -->
-  <article style="background:#fff; border:1px solid #e5e7eb; border-radius:14px; padding:16px; box-shadow:0 4px 12px rgba(0,0,0,.05);">
-    <header style="margin-bottom:8px;">
-      <h3 style="margin:0 0 6px; font-size:1.05rem; line-height:1.35;">
-        📡 Performance Evaluation of Min-Max and Trilateration Algorithms for Long-Range RF-Based Indoor Localization
-      </h3>
-      <div style="font-size:0.9rem; color:#555;">Sep 2024 – Jul 2025</div>
-    </header>
+---
 
-    <!-- Badges / tools -->
-    <div style="margin:10px 0 12px; display:flex; flex-wrap:wrap; gap:6px;">
-      <span style="font-size:12px; padding:4px 8px; border:1px solid #e5e7eb; border-radius:999px;">MATLAB</span>
-      <span style="font-size:12px; padding:4px 8px; border:1px solid #e5e7eb; border-radius:999px;">Embedded C</span>
-      <span style="font-size:12px; padding:4px 8px; border:1px solid #e5e7eb; border-radius:999px;">Long-Range (LoRa)</span>
-    </div>
-
-    <ul style="margin:0; padding-left:18px; line-height:1.6;">
-      <li>Empirically evaluated Min-Max and Trilateration for LoRa-based indoor localization using accuracy, execution time, and standard deviation.</li>
-      <li>Analyzed impact of anchor node diversity on localization accuracy by varying reference nodes.</li>
-      <li>Used real-time RSSI datasets from dynamic indoor environments to optimize LoRa systems.</li>
-    </ul>
-
-    <!-- Optional buttons (uncomment and add links if available)
-    <div style="margin-top:12px; display:flex; gap:8px; flex-wrap:wrap;">
-      <a href="YOUR_REPO_LINK" style="text-decoration:none; font-size:13px; padding:6px 10px; border-radius:8px; border:1px solid #e5e7eb;">🔗 Repository</a>
-      <a href="YOUR_DEMO_LINK" style="text-decoration:none; font-size:13px; padding:6px 10px; border-radius:8px; border:1px solid #e5e7eb;">🎥 Demo</a>
-      <a href="YOUR_PAPER_LINK" style="text-decoration:none; font-size:13px; padding:6px 10px; border-radius:8px; border:1px solid #e5e7eb;">📄 Paper</a>
-    </div>
-    -->
-  </article>
-
-  <!-- Project 2 -->
-  <article style="background:#fff; border:1px solid #e5e7eb; border-radius:14px; padding:16px; box-shadow:0 4px 12px rgba(0,0,0,.05);">
-    <header style="margin-bottom:8px;">
-      <h3 style="margin:0 0 6px; font-size:1.05rem; line-height:1.35;">
-        ☁️ Internet of Things (IoT) Based Weather Monitoring System
-      </h3>
-      <div style="font-size:0.9rem; color:#555;">Apr 2023 – Jul 2023</div>
-    </header>
-
-    <!-- Badges / tools -->
-    <div style="margin:10px 0 12px; display:flex; flex-wrap:wrap; gap:6px;">
-      <span style="font-size:12px; padding:4px 8px; border:1px solid #e5e7eb; border-radius:999px;">Embedded C</span>
-      <span style="font-size:12px; padding:4px 8px; border:1px solid #e5e7eb; border-radius:999px;">ESP32</span>
-      <span style="font-size:12px; padding:4px 8px; border:1px solid #e5e7eb; border-radius:999px;">Sensors</span>
-    </div>
-
-    <ul style="margin:0; padding-left:18px; line-height:1.6;">
-      <li>Built a cost-effective, scalable ESP32-based system for continuous weather parameter tracking.</li>
-      <li>Enabled real-time monitoring for accurate environmental analysis.</li>
-      <li>Delivered a reliable solution for smart monitoring and automation use-cases.</li>
-    </ul>
-
-    <!-- Optional buttons (uncomment and add links if available)
-    <div style="margin-top:12px; display:flex; gap:8px; flex-wrap:wrap;">
-      <a href="YOUR_REPO_LINK" style="text-decoration:none; font-size:13px; padding:6px 10px; border-radius:8px; border:1px solid #e5e7eb;">🔗 Repository</a>
-      <a href="YOUR_DEMO_LINK" style="text-decoration:none; font-size:13px; padding:6px 10px; border-radius:8px; border:1px solid #e5e7eb;">📊 Live Dashboard</a>
-    </div>
-    -->
-  </article>
-
-</div>
+<!-- Project 2 -->
+<h3>☁️ Internet of Things (IoT) Based Weather Monitoring System</h3>
+<p><em>Apr 2023 – Jul 2023</em></p>
+<p><strong>Tools:</strong> <code>Embedded C</code> • <code>ESP32</code> • <code>Sensors</code></p>
+<ul>
+  <li>Built a cost-effective ESP32-based weather monitoring system.</li>
+  <li>Enabled real-time monitoring of weather parameters for environmental analysis.</li>
+  <li>Delivered a reliable solution for smart monitoring and automation.</li>
+</ul>
 
 
 
