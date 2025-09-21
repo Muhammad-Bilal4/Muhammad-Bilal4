@@ -19,6 +19,27 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 ## SKILLS 🛠️
 <a href="https://github.com/Muhammad-Bilal4/">
 </a>
+<!-- Skills Section -->
+<section id="skills" style="max-width: 900px; margin: 2rem auto; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
+  <h2 style="text-align:center; margin-bottom: 1rem;">Skills</h2>
+
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+    gap: 18px;
+    align-items: center;
+    justify-items: center;
+    padding: 0 8px;
+  ">
+    <!-- Skill card -->
+    <figure style="margin:0; text-align:center;">
+      <img src="./assets/MATLAB_logo_PNG1.png" alt="MATLAB" title="MATLAB"
+           loading="lazy" width="72" height="72"
+           style="display:block; width:72px; height:72px; object-fit:contain; image-rendering:auto;" />
+      <figcaption style="margin-top:8px; font-size:0.95rem;">MATLAB</figcaption>
+    </figure>
+  </div>
+</section>
 
 
 
