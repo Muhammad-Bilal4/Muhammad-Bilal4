@@ -75,9 +75,9 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
  <!-- Achievements Section -->
 <div style="margin-top:2rem; font-family:system-ui, sans-serif;">
 
-  <!-- Honors & Awards -->
+  <!-- Awards -->
   <div style="margin-bottom:1.5rem;">
-    <h3 style="margin-bottom:0.8rem; font-size:1.3rem;">🏆 Honors & Awards</h3>
+    <h3 style="margin-bottom:0.8rem; font-size:1.3rem;">🏆 Awards</h3>
     <ul style="line-height:1.8; padding-left:1.2rem; list-style: '✨ ';">
       <li><strong>Prime Minister’s Laptop Award</strong> (Jun 2024) – Higher Education Commission (HEC), Pakistan. Awarded a laptop under the Prime Minister’s Youth Laptop Scheme for outstanding academic performance.</li>
       <li><strong>BEEF Scholarship Award</strong> (Aug 2024) – Baluchistan Education Endowment Fund (BEEF). Recipient of the scholarship for academic excellence.</li>
