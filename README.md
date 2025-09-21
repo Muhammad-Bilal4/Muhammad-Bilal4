@@ -102,9 +102,6 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <li>Analyzed the impact of anchor node diversity on localization accuracy.</li>
   <li>Worked with real-time RSSI datasets from dynamic indoor environments.</li>
 </ul>
-
----
-
 <!-- Project 2 -->
 <h3>☁️ Internet of Things (IoT) Based Weather Monitoring System</h3>
 <p><em>Apr 2023 – Jul 2023</em></p>
