@@ -71,7 +71,26 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   </figure>   
 </div>
 
-## HONORS & AWARDS🏆
+## AWARDS & CERTIFICATIONS 🏆
+ <!-- Honors and Awards -->
+    <div>
+      <h3 style="margin-bottom: 0.5rem;">Honors & Awards</h3>
+      <ul style="line-height:1.6; padding-left: 1.2rem;">
+        <li><strong>Prime Minister’s Laptop Award</strong> (Jun 2024) – Higher Education Commission (HEC), Pakistan. Awarded a laptop under the Prime Minister’s Youth Laptop Scheme for outstanding academic performance.</li>
+        <li><strong>BEEF Scholarship Award</strong> (Aug 2024) – Baluchistan Education Endowment Fund (BEEF). Recipient of the scholarship for academic excellence.</li>
+        <li><strong>HEC Scholarship Award</strong> (Jun 2024) – Higher Education Commission (HEC), Pakistan. Merit-based award for students of Baluchistan and Erstwhile FATA.</li>
+      </ul>
+    </div>
+
+    <!-- Certifications -->
+    <div>
+      <h3 style="margin-bottom: 0.5rem;">Certifications</h3>
+      <ul style="line-height:1.6; padding-left: 1.2rem;">
+        <li><strong>Introduction to Programming with MATLAB</strong> – Vanderbilt University (Mar 2025)</li>
+        <li><strong>Programming for Everybody (Getting Started with Python)</strong> – University of Michigan (Feb 2025)</li>
+      </ul>
+    </div>
+
 
 
 
