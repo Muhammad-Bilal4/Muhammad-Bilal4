@@ -70,6 +70,8 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
     <!-- Caption removed -->
   </figure>   
 </div>
+src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> </a>Achievements & Community Contributions</h1>
+</a>
 
 
 
