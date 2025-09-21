@@ -11,12 +11,14 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 ## CONNECT WITH ME 🤝
 <div align="center">
     <a target="_blank" href="mailto:engr.muhammmad.bilal4@gmail.com"><img src="https://img.shields.io/badge/-engr.muhammad.bilal4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/muhammad-bilal4/" target="_blank">
+ <a href="https://www.linkedin.com/in/muhammad-bilal4/" target="_blank" 
+   style="display:inline-flex; align-items:center; text-decoration:none; color:#0077B5; font-family:Arial; font-size:14px; font-weight:bold;">
   <img alt="LinkedIn" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-       width="20" height="20" style="vertical-align:middle; margin-right:5px;"/>
+       width="20" height="20" style="margin-right:6px;"/>
   in/muhammad-bilal4
 </a>
+
 </div>
 
 ## SKILLS 🛠️
