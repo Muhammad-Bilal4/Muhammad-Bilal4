@@ -113,12 +113,9 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 </ul>
 
 ## GITHUB STATS 📊
-<!-- WidgetBox: profile overview -->
-<p align="center">
-  <a href="https://github.com/Muhammad-Bilal4">
-    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Muhammad-Bilal4&data=followers,repositories,stars,commits&theme=light" alt="GitHub profile widget" />
-  </a>
-</p>
+<!-- 📊 Stats Section -->
+<h2 align="center">📊 Stats</h2>
+
 <!-- GitHub Readme Stats: main card -->
 <p align="center">
   <img
@@ -138,6 +135,12 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal4&layout=compact&langs_count=8&card_width=420&theme=default"
     alt="Top languages" />
+</p>
+
+<!-- Manual Language Usage -->
+<p align="center">
+  <strong>Language Usage:</strong><br>
+  MATLAB (75.00%) • Python (20.00%) • C++ (5.00%)
 </p>
 
 
