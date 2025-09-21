@@ -75,7 +75,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
  <!-- Achievements Section -->
 <div style="margin-top:2rem; font-family:system-ui, sans-serif;">
 
-  <!-- Awards -->
+  <!-- AWARDS -->
   <div style="margin-bottom:1.5rem;">
     <h3 style="margin-bottom:0.8rem; font-size:1.3rem;">🏆 Awards</h3>
     <ul style="line-height:1.8; padding-left:1.2rem; list-style: '✨ ';">
@@ -85,7 +85,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
     </ul>
   </div>
 
-  <!-- Certifications -->
+  <!-- CERTIFICATIONS -->
   <div>
     <h3 style="margin-bottom:0.8rem; font-size:1.3rem;">📜 Certifications</h3>
     <ul style="line-height:1.8; padding-left:1.2rem; list-style: '✅ ';">
