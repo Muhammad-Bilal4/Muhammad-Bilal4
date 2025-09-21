@@ -30,43 +30,43 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <figure style="margin:0; text-align:center;">
     <img src="./assets/MATLAB_logo_PNG1.png" alt="MATLAB" title="MATLAB"
          loading="lazy"
-         style="width:120px; height:120px; object-fit:contain; display:block;" />
+         style="width:120px; height:100px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Proteus_logo_PNG1.png" alt="Proteus" title="Proteus"
          loading="lazy"
-         style="width:120px; height:120px; object-fit:contain; display:block;" />
+         style="width:120px; height:100px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Python_logo_PNG1.png" alt="Python" title="Python"
          loading="lazy"
-          style="width:120px; height:120px; object-fit:contain; display:block;" />
+          style="width:120px; height:100px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Multisim_logo_PNG1.png" alt="Multisim" title="Multisim"
          loading="lazy"
-          style="width:120px; height:120px; object-fit:contain; display:block;" />
+          style="width:120px; height:100px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Logicly_logo_PNG1.png" alt="Logicly" title="Logicly"
          loading="lazy"
-          style="width:120px; height:120px; object-fit:contain; display:block;" />
+          style="width:120px; height:100px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
     <img src="./assets/ETAP_logo_JPG1.jpg" alt="ETAP" title="ETAP"
          loading="lazy"
-         style="width:120px; height:120px; object-fit:contain; display:block;" />
+         style="width:120px; height:120px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Cpp_logo_PNG1.png" alt="ETAP" title="ETAP"
          loading="lazy"
-         style="width:120px; height:120px; object-fit:contain; display:block;" />
+         style="width:120px; height:100px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>   
 </div>
