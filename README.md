@@ -11,7 +11,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 ## Skills
 <a href="https://github.com/Muhammad-Bilal4/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=matlab","python" />
+  <img src="https://skills.syvixor.com/api/icons?i=matlab","c++","etap","psice","logic.ly","proteus","python" />
 </p>
 </a>
 
