@@ -11,8 +11,9 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 ## CONNECT WITH ME 🤝
 <div align="center">
     <a target="_blank" href="mailto:engr.muhammmad.bilal4@gmail.com"><img src="https://img.shields.io/badge/-engr.muhammad.bilal4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/muhammad-bilal4/" target="_blank">
-        <img src="https://img.shields.io/badge/-in/muhammad--bilal4-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/muhammad-bilal4/" target="_blank">
+  <img src="https://img.shields.io/badge/-in/muhammad--bilal4-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
 </div>
 
 ## SKILLS 🛠️
