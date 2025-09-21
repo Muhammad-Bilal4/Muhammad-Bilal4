@@ -48,13 +48,13 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Multisim_logo_PNG1.png" alt="Multisim" title="Multisim"
          loading="lazy"
-          style="width:100px; height:70px; object-fit:contain; display:block;image-rendering:auto;" />
+          style="width:80px; height:70px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Logicly_logo_PNG1.png" alt="Logicly" title="Logicly"
          loading="lazy"
-          style="width:100px; height:70px; object-fit:contain; display:block;image-rendering:auto;" />
+          style="width:80px; height:70px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
@@ -66,7 +66,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Cpp_logo_PNG1.png" alt="ETAP" title="ETAP"
          loading="lazy"
-         style="width:100px; height:70px; object-fit:contain; display:block;image-rendering:auto;" />
+         style="width:80px; height:70px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>   
 </div>
