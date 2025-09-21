@@ -63,7 +63,12 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
          style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>   
-  
+  <figure style="margin:0; text-align:center;">
+    <img src="./assets/Cpp_logo_PNG1.png" alt="ETAP" title="ETAP"
+         loading="lazy"
+         style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
+    <!-- Caption removed -->
+  </figure>   
 </div>
 </section>
 
