@@ -8,6 +8,12 @@
 
 ## INTRODUCTION
 Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical Engineer** with a strong passion for problem-solving and innovation. My ability to analyze and develop systems allows me to work effectively on engineering challenges. I am always interested in learning new technologies and improving my technical skills.
+## Skills
+<a href="https://github.com/Muhammad-Bilal4/">
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=matlab" />
+</p>
+</a>
 
 
 
