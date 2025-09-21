@@ -121,7 +121,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 <!-- Streak stats -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Muhammad-Bilal4&theme=default&v=2&cache_seconds=7200" height="180" 
+    src="https://streak-stats.demolab.com?user=Muhammad-Bilal4&theme=default&v=2&cache_seconds=60" height="180" 
     />
 </p>
 
