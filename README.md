@@ -10,8 +10,15 @@
 Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical Engineer** with a strong passion for problem-solving and innovation. My ability to analyze and develop systems allows me to work effectively on engineering challenges. I am always interested in learning new technologies and improving my technical skills.
 ## CONNECT WITH ME 🤝
 <div align="center">
-    <a href="https://www.linkedin.com/in/Muhammad-Bilal4/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Bilal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:engr.muhammad.bilal4@gmail.com"><img src="https://img.shields.io/badge/-engr.muhammad.bilal4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <!-- LinkedIn Badge -->
+    <a href="https://www.linkedin.com/in/Muhammad-Bilal4/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    </a>
+
+    <!-- Gmail Badge -->
+    <a target="_blank" href="mailto:engr.muhammad.bilal4@gmail.com">
+        <img src="https://img.shields.io/badge/-engr.muhammad.bilal4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
 </div>
 
 ## SKILLS 🛠️
