@@ -113,9 +113,6 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 </ul>
 
 ## GITHUB STATS 📊
-<!-- 📊 Stats Section -->
-<h2 align="center">📊 Stats</h2>
-
 <!-- GitHub Readme Stats: main card -->
 <p align="center">
   <img
