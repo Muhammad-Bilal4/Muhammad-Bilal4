@@ -17,12 +17,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 </div>
 
 ## SKILLS 🛠️
-<a href="https://github.com/Muhammad-Bilal4/">
-</a>
-<!-- Skills Section -->
-<section id="skills" style="max-width: 900px; margin: 2rem auto; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
-  <h2 style="text-align:center; margin-bottom: 1rem;">Skills</h2>
-
+<a href="https://github.com/Muhammad-Bilal4/"></a>
  <div style="
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); /* bigger cell size */
@@ -34,6 +29,12 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <!-- Skill card -->
   <figure style="margin:0; text-align:center;">
     <img src="./assets/MATLAB_logo_PNG1.png" alt="MATLAB" title="MATLAB"
+         loading="lazy"
+         style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
+    <!-- Caption removed -->
+  </figure>
+  <figure style="margin:0; text-align:center;">
+    <img src="./assets/Proteus_logo_PNG1.png" alt="Proteus" title="Proteus"
          loading="lazy"
          style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
     <!-- Caption removed -->
