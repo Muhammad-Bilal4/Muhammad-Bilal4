@@ -48,25 +48,25 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Multisim_logo_PNG1.png" alt="Multisim" title="Multisim"
          loading="lazy"
-         style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
+          style="width:120px; height:120px; object-fit:contain; display:block;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Logicly_logo_PNG1.png" alt="Logicly" title="Logicly"
          loading="lazy"
-         style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
+          style="width:120px; height:120px; object-fit:contain; display:block;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
     <img src="./assets/ETAP_logo_JPG1.jpg" alt="ETAP" title="ETAP"
          loading="lazy"
-         style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
+         style="width:120px; height:120px; object-fit:contain; display:block;" />
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Cpp_logo_PNG1.png" alt="ETAP" title="ETAP"
          loading="lazy"
-         style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
+         style="width:120px; height:120px; object-fit:contain; display:block;" />
     <!-- Caption removed -->
   </figure>   
 </div>
