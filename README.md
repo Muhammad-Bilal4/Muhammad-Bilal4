@@ -58,7 +58,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
     <!-- Caption removed -->
   </figure>   
   <figure style="margin:0; text-align:center;">
-    <img src="./assets/ETAP_logo_PNG1.png" alt="ETAP" title="ETAP"
+    <img src="./assets/ETAP_logo_JPG1.jpg" alt="ETAP" title="ETAP"
          loading="lazy"
          style="display:block; width:120px; height:auto; object-fit:contain; image-rendering:auto;" />
     <!-- Caption removed -->
