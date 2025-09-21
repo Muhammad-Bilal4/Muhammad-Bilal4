@@ -96,6 +96,9 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 <!-- Project 1 -->
 <h3>📡 Performance Evaluation of Min-Max and Trilateration Algorithms for Long-Range RF-Based Indoor Localization</h3>
 <p><em>Sep 2024 – Jul 2025</em></p>
+<a href="https://github.com/Muhammad-Bilal4/LoRa-Indoor-Localization">
+  <img src="https://img.shields.io/badge/GitHub-LoRa_Indoor_Localization-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <p><strong>Tools:</strong> <code>MATLAB</code> • <code>Embedded C</code> • <code>LoRa</code></p>
 <ul>
   <li>Empirically evaluated Min-Max and Trilateration algorithms for LoRa-based indoor localization.</li>
