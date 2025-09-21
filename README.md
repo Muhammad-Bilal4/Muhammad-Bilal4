@@ -73,7 +73,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 
   <!-- AWARDS -->
   <div style="margin-bottom:1.5rem;">
-    <h3 style="margin-bottom:0.8rem; font-size:1.3rem;">🏆 AWARDSs</h3>
+    <h3 style="margin-bottom:0.8rem; font-size:1.3rem;">🏆 AWARDS</h3>
     <ul style="line-height:1.8; padding-left:1.2rem; list-style: '✨ ';">
       <li><strong>Prime Minister’s Laptop Award</strong> (Jun 2024) – Higher Education Commission (HEC), Pakistan. Awarded a laptop under the Prime Minister’s Youth Laptop Scheme for outstanding academic performance.</li>
       <li><strong>BEEF Scholarship Award</strong> (Aug 2024) – Baluchistan Education Endowment Fund (BEEF). Recipient of the scholarship for academic excellence.</li>
@@ -92,7 +92,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
 
 </div>
 
-## Projects 📂 
+## PROJECTS 📂 
 <!-- Project 1 -->
 <h3>📡 Performance Evaluation of Min-Max and Trilateration Algorithms for Long-Range RF-Based Indoor Localization</h3>
 <p><em>Sep 2024 – Jul 2025</em></p>
@@ -111,6 +111,14 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <li>Enabled real-time monitoring of weather parameters for environmental analysis.</li>
   <li>Delivered a reliable solution for smart monitoring and automation.</li>
 </ul>
+
+## GITHUB STATS 📊
+<!-- WidgetBox: profile overview -->
+<p align="center">
+  <a href="https://github.com/Muhammad-Bilal4">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Muhammad-Bilal4&data=followers,repositories,stars,commits&theme=light" alt="GitHub profile widget" />
+  </a>
+</p>
 
 
 
