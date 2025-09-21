@@ -36,7 +36,7 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
   <figure style="margin:0; text-align:center;">
     <img src="./assets/Proteus_logo_PNG1.png" alt="Proteus" title="Proteus"
          loading="lazy"
-         style="width:50px; height:50px; object-fit:contain; display:block;image-rendering:auto;" />
+         style="width:40px; height:50px; object-fit:contain; display:block;image-rendering:auto;" />
     <!-- Caption removed -->
   </figure>
   <figure style="margin:0; text-align:center;">
