@@ -130,20 +130,6 @@ Hello,  I am **Muhammad Bilal** anambitious and highly motivated **Electrical En
     alt="GitHub streak" height="180" />
 </p>
 
-<!-- Top languages -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal4&layout=compact&langs_count=8&card_width=420&theme=default"
-    alt="Top languages" />
-</p>
-
-<!-- Manual Language Usage -->
-<p align="center">
-  <strong>Language Usage:</strong><br>
-  MATLAB (75.00%) • Python (20.00%) • C++ (5.00%)
-</p>
-
-
 
 
 
